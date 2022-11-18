@@ -1,0 +1,33 @@
+.content{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+.content .content_site{
+    display: flex;  
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    color: red;
+   
+}
+.content .link a{
+    margin-left: 10px;
+}
+.content2 {
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.content2 h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:orangered;
+}
+.content2 h3{
+    color: pink;
+}

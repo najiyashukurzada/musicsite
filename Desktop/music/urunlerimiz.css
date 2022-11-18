@@ -1,0 +1,48 @@
+.content{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.content_site{
+    display: flex;  
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    color: red;
+   
+}
+.link a{
+    margin-left: 10px;
+}
+.content2{    
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.content2 h2{
+    text-align: center;
+    color: blue;
+}
+.bateri_davul img{
+    width: 200px;
+}
+.gitar img{
+    width: 200px;
+}
+.piano img{
+    width: 200px;
+}
+.skripka img{
+    width: 200px;
+}
+.urunler{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    
+}
+.urunler .urun{
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+}
