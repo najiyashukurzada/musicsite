@@ -1,0 +1,192 @@
+@media only screen and (min-width: 769px)
+{
+body{
+    width: 100%;
+}
+.footer{
+    display: flex;
+    background-color: rgb(34, 33, 33);
+    padding: 70px 0px 70px 70px;
+}
+.footer--title svg{
+    width: 85px;
+    fill: white;
+    padding: 10px;
+}
+.contentDiv__list{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 200px;
+    color: white;
+}
+.contenthref{
+    text-decoration: none;
+    color: white;
+}
+.contenthref1{
+    text-decoration: none;
+    color: white;
+}
+.contenthref2{
+    text-decoration: none;
+    color: white;
+}
+.contenthref3{
+    text-decoration: none;
+    color: white;
+}
+.contentdiv__uldiv .contentul__ul .contenthref .footer__li1:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv .contentul__ul .contenthref .footer__li2:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv .contentul__ul .contenthref .footer__li3:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv .contentul__ul .contenthref .footer__li4:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv .contentul__ul .contenthref .footer__li5:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv1 .contentul__ul1 .contenthref1 .footer__li6:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv1 .contentul__ul1 .contenthref1 .footer__li7:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv1 .contentul__ul1 .contenthref1 .footer__li8:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv1 .contentul__ul1 .contenthref1 .footer__li9:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv1 .contentul__ul1 .contenthref1 .footer__li10:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv2 .contentul__ul2 .contenthref2 .footer__li11:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv2 .contentul__ul2 .contenthref2 .footer__li12:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv2 .contentul__ul2 .contenthref2 .footer__li13:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv3 .contentul__ul3 .contenthref3 .footer__li14:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv3 .contentul__ul3 .contenthref3 .footer__li15:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv3 .contentul__ul3 .contenthref3 .footer__li16:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv3 .contentul__ul3 .contenthref3 .footer__li17:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv3 .contentul__ul3 .contenthref3 .footer__li18:hover{
+    text-decoration: underline;
+}
+.contentdiv__uldiv3 .contentul__ul3 .contenthref3 .footer__li19:hover{
+    text-decoration: underline;
+}
+.contentul__ul{
+    list-style: none;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.contentul__ul1{
+    list-style: none;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.contentul__ul2{
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 20px;;
+}
+.contentul__ul3{
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.content__lebel{
+    margin-left: 60px;
+    font-size: 20px;
+}
+.content__label1{
+    margin-left: 60px; 
+    font-size: 20px;
+}
+.content__label2{
+    margin-left: 50px;
+    font-size: 20px;
+}
+.content__label3{
+    margin-left: 50px;
+    font-size: 20px;
+}
+.footer .footer__Partend{
+    display: flex;
+    position: absolute;
+    margin-left: 4rem;
+    margin-top: 90px;
+}
+.icon__herf1{
+    text-decoration: none;
+    color: white;
+}
+.icon__herf1:hover{
+    text-decoration: underline;
+}
+.icon__herf2{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+}
+.icon__herf2:hover{
+    text-decoration: underline;
+}
+.icon__herf3{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+}
+.icon__herf3:hover{
+    text-decoration: underline;
+}
+.footer__Partend1{
+    display: flex;
+}
+.footer__Partend1 .footer__partnav .nav__herf1{
+    text-decoration: none;
+    color:  white;
+    margin-left: 150px;
+}
+.footer__Partend1  .nav__herf1:hover{
+    text-decoration: underline;
+}
+.footer__Partend1 .footer__partnav .nav__herf2{
+    text-decoration: none;
+    color:  white;
+    margin-left: 30px;
+}
+.footer__Partend1 .nav__herf2:hover{
+    text-decoration: underline;
+}
+.footer__Partend1 .footer__partnav .nav__herf3{
+    text-decoration: none;
+    color:  white;
+    margin-left: 30px;
+}
+.footer__Partend1 .nav__herf3:hover{
+    text-decoration: underline;
+}
+.footer__Partend .footer__finally{
+    display: flex;
+    color: white;
+    margin-left: 70px;
+}
+}
